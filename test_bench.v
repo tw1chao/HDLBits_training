@@ -1,6 +1,6 @@
 `timescale 1ns/1ns
 
-module wunsiou;
+module top_module_tb;
   reg  [3:0] in1, in2;
   reg [1:0] sel;
   wire [7:0] out;
